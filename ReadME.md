@@ -42,8 +42,8 @@ Make sure you have the following installed on your system:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Rajnikradadiya09/e-commerce-system
+   cd e-commerce-system
 
    npm install
    npm start
